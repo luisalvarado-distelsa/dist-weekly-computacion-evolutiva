@@ -1,4 +1,4 @@
-# Proyecto: Computación Evolutiva - Distelsa Weekly
+# Computación Evolutiva - Distelsa Weekly
 
 Este repositorio contiene el material relacionado a una presentación y proyecto semanal sobre computación evolutiva y su aplicación en problemas reales utilizando técnicas de machine learning e inteligencia artificial. La computación evolutiva es un enfoque basado en los principios de la evolución biológica para resolver problemas de optimización complejos que no tienen una solución determinística clara.
 
